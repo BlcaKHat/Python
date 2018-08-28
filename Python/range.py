@@ -1,3 +1,5 @@
+#Simple Range problem..
+
 i=200
 n=110
 count =0

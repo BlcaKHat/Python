@@ -1,3 +1,5 @@
+#sample class
+
 class MyClass:
 	x = 5
 

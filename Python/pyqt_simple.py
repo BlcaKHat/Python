@@ -1,3 +1,4 @@
+#simple pyqt code with one quit button....
 import sys
 from PyQt4 import QtGui, QtCore
 
