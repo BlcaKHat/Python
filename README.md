@@ -1,2 +1,2 @@
 # Python
-These coedes are used on daily life.
+Commonly used codes for basic manipulation.
